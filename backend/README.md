@@ -1,4 +1,4 @@
-# Weke Backend
+# johnte Backend
 
 ## Setup
 - Mongo URI and JWT secret already in .env
