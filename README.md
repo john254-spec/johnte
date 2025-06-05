@@ -1,4 +1,4 @@
-# WEKE - Windows & Office Download & Activation Hub
+# johnte - Windows & Office Download & Activation Hub
 
 ## Features
 - Upload & download Windows/Office
